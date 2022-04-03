@@ -1,5 +1,5 @@
 # Argos Open Tech
-Open source developer.
+Open source developer
 
 #### Platforms
 - [Website](https://www.argosopentech.com)
