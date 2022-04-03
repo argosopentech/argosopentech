@@ -1,7 +1,7 @@
 # Argos Open Tech
 Open source developer
 
-#### Platforms
+
 - [Website](https://www.argosopentech.com)
 - [Email](mailto:admin@argosopentech.com)
 - [Odysee](https://odysee.com/@argosopentech)
