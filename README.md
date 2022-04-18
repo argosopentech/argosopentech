@@ -10,6 +10,7 @@ Premium open-source software
 - [YouTube](https://www.youtube.com/channel/UCUhFxpTpgsu0rXKPrybCQSA)
 - [Substack](https://argosopentech.substack.com/)
 - [Discord](https://discord.gg/gz4ZYvBGjA)
+- [Gitter (Matrix)](https://gitter.im/Argos-Open-Tech/)
 - [Reddit](https://www.reddit.com/user/argosopentech)
 - [Rumble](https://rumble.com/user/argosopentech)
 - [PeerTube](https://peervideo.club/c/argosopentech/videos)
