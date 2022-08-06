@@ -13,4 +13,5 @@ Premium open-source software
 - [Gitter (Matrix)](https://gitter.im/Argos-Open-Tech/)
 - [Reddit](https://www.reddit.com/user/argosopentech)
 - [Rumble](https://rumble.com/user/argosopentech)
+- [Twitch](https://www.twitch.tv/argosopentech)
 - [PeerTube](https://peervideo.club/c/argosopentech/videos)
