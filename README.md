@@ -1,6 +1,4 @@
-# Argos Open Tech
-Premium open-source software
-
+# Argos Open Technologies, LLC
 
 - [Website](https://www.argosopentech.com)
 - [Email](mailto:admin@argosopentech.com)
