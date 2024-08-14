@@ -1,6 +1,6 @@
 # Argos Open Tech
 
-I'm an open source software enthusiast 
+I'm an open source software enthusiast who started Argos Open Tech to build and maintain free and open source software projects.
 
 ## Projects
   
@@ -38,6 +38,12 @@ Free public domain art
 ### [WolfEdit](https://github.com/argosopentech/WolfEdit)
 
 A text editor for coding based on the Qt C++ framework
+
+## Hire Me
+
+https://www.argosopentech.com/about/
+
+I’m also available for hire! I do software development contracting and can help you develop or maintain software. I have experience with Python, C++, Android, Linux, Machine Translation, Qt, Web Development, and more. I am also a quick learner and could help with many different types of IT tasks. 
 
 ## Affiliate Links
 
